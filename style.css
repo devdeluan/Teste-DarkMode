@@ -17,6 +17,7 @@ body {
 }
 
 body.dark {
+    transition: 1.0s;
     background-image: url(img/background2.png);
 }
 
